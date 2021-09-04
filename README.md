@@ -1,7 +1,7 @@
 # TFA-Modlists
 
 This repository contains all active TFA modlists. If you'd like to make changes to a mod list, please fork and make a pull request, or make an Issue. 
-Please include the mod or mods in the title of the issue or PR (REAAD #3 !). 
+Please include the mod or mods in the title of the issue or PR \(REAAD [#3](https://github.com/TaskForceAthena/TFA-Modlists/issues/3)\!\). 
 
 ## Viewing the lists
 
