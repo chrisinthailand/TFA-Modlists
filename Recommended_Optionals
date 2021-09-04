@@ -1,9 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <html>
   <!--Created by Arma 3 Launcher: https://arma3.com-->
   <head>
     <meta name="arma:Type" content="list" />
     <meta name="generator" content="Arma 3 Launcher - https://arma3.com" />
+    <meta name="arma:PresetName" content="Recommended Optionals" />
     <title>Arma 3</title>
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" type="text/css" />
     <style>
