@@ -3,6 +3,11 @@
 This repository contains all active TFA modlists. If you'd like to make changes to a mod list, please fork and make a pull request, or make an Issue. 
 Please include the mod or mods in the title of the issue or PR. 
 
+## Viewing the lists
+
+Because *reasons*, we can't show what's in these lists in a not-HTML form. To make them viewable, right click on the `Raw` button, and select `Save link as...` 
+![Image showing right clicking the Raw button](https://i.imgur.com/YLnjEtY.png)
+
 ## Mission building with TFA modlists
 
 Regardless of your personal mod taste (as we allow you to use non-gameplay affecting mods), you *must not* use any mods not in the mod list *including* Zeus mods such as Achillies or Zeus Enhanced. Both Zeus Enhanced and Achillies will be running on the server, so Zeus' can pick the one they prefer.
