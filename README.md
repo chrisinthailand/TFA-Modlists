@@ -6,7 +6,10 @@ Please include the mod or mods in the title of the issue or PR.
 ## Viewing the lists
 
 Because *reasons*, we can't show what's in these lists in a not-HTML form. To make them viewable, right click on the `Raw` button, and select `Save link as...` 
+
 ![Image showing right clicking the Raw button](https://i.imgur.com/YLnjEtY.png)
+
+Afterwards, open the downloaded file in your web browser
 
 ## Mission building with TFA modlists
 
